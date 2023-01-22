@@ -6,12 +6,8 @@ Full Stack Developer
 
 Full Stack Web and Mobile Application Developer with a passion for creating innovative and user-friendly digital experiences. Skilled in React.js, Next.js, Flutter, UI/UX, Node.js, Express.js, Fastify.js, MongoDB and more.
 
-* 🌍  I'm based in Karachi, Pakistan
-* 🖥️  See my portfolio at [muhammadismail.dev](http://muhammadismail.dev)
-
-### Skills
-
-
+*   🌍  I'm based in Karachi, Pakistan
+*   🖥️  See my portfolio at [muhammadismail.dev](http://muhammadismail.dev)### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -31,16 +27,12 @@ Full Stack Web and Mobile Application Developer with a passion for creating inno
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/polygon-colored.svg" width="36" height="36" alt="Polygon" /></a>
 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/itsmuhammadismail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/itsmuhammadismail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/itsmuhammadismail"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=itsmuhammadismail&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/itsmuhammadismail" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmuhammadismail&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/itsmuhammadismail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/itsmuhammadismail" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
